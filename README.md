@@ -18,7 +18,7 @@ The SOLANA SOR (Smart Order Router) SmartContract repository implements a decent
 ## Key Features
 
 - **Split Trading**: The DexRouter allows for split trading, enabling users to execute trades across multiple liquidity sources.
-- **Security**: The contracts has been audited by okx innter audit team.
+- **Security**: The contracts have been audited by okx inner audit team.
 - **Extensible Architecture**: Easily integrates with other Solana-based programs and tokens.
 - **Anchor Framework**: Utilizes Anchor for seamless program development and deployment.
 - **High Performance**: Built on Solana, ensuring high throughput and low latency.
