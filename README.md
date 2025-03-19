@@ -111,6 +111,9 @@ Join our [Discord community](https://discord.gg/3N9PHeNn) to help other develope
 - Read through our documentation
 - Set up your local development environment following the Installation guide
 
+## Bug Bounty
+Help us enhance the security of the SOLANA SOR SmartContract by participating in our bug bounty program. Report vulnerabilities and earn rewards! Learn more and get started at [HackerOne](https://hackerone.com/okg/policy_scopes?type=team).
+
 ## Code Review Process
 1. A maintainer will review your PR
 2. Address any requested changes
