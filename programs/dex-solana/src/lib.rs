@@ -1,3 +1,6 @@
+// Copyright (c) 2023-2025 OKX.com
+// Licensed under the MIT License
+
 use anchor_lang::prelude::*;
 pub mod adapters;
 pub mod constants;
